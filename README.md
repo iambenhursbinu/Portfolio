@@ -1,0 +1,1 @@
+Designed and developed a modern, responsive personal portfolio website to showcase my skills, projects, and certifications. Built with React.js, TypeScript, Tailwind CSS, Framer Motion, and Vite, focusing on clean UI, responsive design, smooth animations, and component-based architecture.
