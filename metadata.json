@@ -1,0 +1,6 @@
+{
+  "name": "Benhurs Binu R Portfolio",
+  "description": "High-Performance modern 3D glossy portfolio for Benhurs Binu R, Frontend Developer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
